@@ -3,4 +3,4 @@ kind: Repository
 metadata:
   name: xdemo-go-tekton-gitops-repository
 spec:
-  url: https://github.com/bohdanmar/xdemo-go-tekton-gitops
+  url: https://github.com/BohdanMar/xdemo-go-tekton-gitops
